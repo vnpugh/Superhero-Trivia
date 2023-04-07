@@ -1,1 +1,1 @@
-# Superhero-Trivia
+# Superhero Trivia
