@@ -1,0 +1,5 @@
+Game results for Lucky Player: 
+Total questions: 9
+Correct answers: 6
+Wrong answers: 3
+
